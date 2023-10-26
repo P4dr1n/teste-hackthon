@@ -1,0 +1,61 @@
+/* Estilos para o card de Informações do Usuário */
+.user-card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.user-card h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.user-actions {
+    margin-top: 20px;
+}
+
+.edit-button, .settings-button, .logout-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+/* Estilos para o card de Meus Tickets */
+.ticket-card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.ticket-card h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.contact-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+/* Estilos para o contêiner */
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

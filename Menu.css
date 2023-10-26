@@ -1,0 +1,55 @@
+.menu{
+    width: 1764px;
+    height: 117px;
+    border-radius: 25px;
+    background: #DEC4C4;
+    margin-top: 47px;
+    margin-left: 158px;
+    
+}
+
+.menu .menu-direita{
+    display: flex;
+    float:right;
+    justify-content: space-around;
+    margin-right: 70px;
+    gap:28px;
+    
+    
+}
+
+.menu .menu-direita .menu-texto{
+    margin-top: 20px;
+    gap:10px;
+    font-size: 36px;
+    
+}
+
+.menu .menu-esquerda .imagem-menu{
+    margin-top: 31px;
+    margin-left: 61px;
+}
+.rodape-footer{
+    width: 1764px;
+    height: 117px;
+    border-radius: 25px;
+    background: #DEC4C4;
+    margin-top: 367px;
+    
+}
+
+.rodape-footer .footer-direita{
+    display: flex;
+    float:right;
+    justify-content: space-around;
+    gap:28px;
+    margin-right:70px;
+    
+    
+}
+
+.rodape-footer .footer-direita .footer-texto{
+    margin-top: 40px;
+    font-size: 36px;
+}
+
